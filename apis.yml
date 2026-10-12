@@ -40,8 +40,7 @@ common:
 - type: DomainSecurity
   url: security/crossnokaye-domain-security.yml
 - type: Website
-  url: https://forgeglobal.com/crossnokaye_stock/
-
+  url: https://crossnokaye.com/
 apis: []
 
 x-coverage:
